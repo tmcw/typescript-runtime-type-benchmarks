@@ -33,7 +33,7 @@
     "class-validator": "0.13.1",
     "clone": "2.1.2",
     "computed-types": "1.11.1",
-    "csv-stringify": "5.6.5",
+    "csv-stringify": "6.0.5",
     "decoders": "1.25.5",
     "fp-ts": "2.11.8",
     "io-ts": "2.2.16",
