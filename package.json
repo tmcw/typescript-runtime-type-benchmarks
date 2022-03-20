@@ -65,7 +65,7 @@
     "@types/clone": "2.1.1",
     "@types/jest": "27.4.0",
     "@types/node": "16.11.22",
-    "@types/svgo": "2.6.0",
+    "@types/svgo": "2.6.2",
     "@types/yup": "0.29.13",
     "expect-type": "0.13.0",
     "gts": "3.1.0",
